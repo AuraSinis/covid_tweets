@@ -1,4 +1,3 @@
-# Project_5_Team
 ## COVID-19 Rates via Sentiment Analysis of Tweets
 #### Lucas Dwyer, Henry Valk, and Margret Rubio-Keefer
 
